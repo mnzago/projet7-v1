@@ -4,7 +4,7 @@ import numpy as np
 import requests
 import pickle
 from PIL import Image
-import shap
+#import shap
 import plotly.graph_objects as go
 from sklearn.preprocessing import StandardScaler, OneHotEncoder, RobustScaler
 from lightgbm import LGBMClassifier
