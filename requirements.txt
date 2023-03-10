@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 flask==2.0.3
 gunicorn==20.0.4
 requests
@@ -8,14 +7,3 @@ lightgbm==3.3.2
 ipython
 numpy
 pandas
-=======
-flask==2.0.3
-gunicorn==20.0.4
-requests
-streamlit==1.19.0
-scikit-learn==1.1.1
-lightgbm==3.3.2
-ipython
-numpy
-pandas
->>>>>>> b614bea516f90b2cf6ee615265d8119034a23b67
